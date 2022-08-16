@@ -4,7 +4,7 @@ This flutter app represents a coding challenge for Flutter enthusiasts applying 
 
 ## 🔧 Requirements
 
-- [x] Using `flutter 2.10.3` (`dart 2.16.1`).
+- [x] Using `flutter 2.10.3` (`dart 2.16.1`) - Achieved with the help of [FVM](https://fvm.app/).
 
 ## 🚀 Assignment
 
