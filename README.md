@@ -34,3 +34,6 @@ In this coding challenge, you will implement an application which accepts an inp
   - if you don't like the idea of your solution to be publicly available make sure to create a private repository and invite [JensHor](https://github.com/jenshor).
 
 ## 📱 Working
+
+<img src="https://user-images.githubusercontent.com/56643117/184922278-3416547c-dea3-49bc-9785-a6c9f19f093b.gif" alt="screen-recording" height="600">
+
